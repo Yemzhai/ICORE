@@ -18,6 +18,6 @@
 
 ### First of all you need to have java, after that you should to change database url, name and password in the file application.properties just launch your own database
 ![image](https://user-images.githubusercontent.com/51040580/156698600-c1c421e6-20a8-401e-8440-7ce2b69b2cab.png)
-### After that in package a CONTROLLER you'll see all rest api and in package a SERVICE you'll notice all business logic. Before launching, it is better to read everything once. If you're ready just run by clicking on the green triangle (Intellij IDEA). Good luck😇😇
+### After that in a package CONTROLLER you'll see all rest api and in a package SERVICE you'll notice all business logic. Before launching, it is better to read everything once. If you're ready just run by clicking on the green triangle (Intellij IDEA). Good luck😇😇
 
 Now adding Swagger UI 🙂
