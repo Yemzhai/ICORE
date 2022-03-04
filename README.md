@@ -1,4 +1,5 @@
-# OneLab projects
+# ICORE PROJECT
+
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=f89820)
 ![Java](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo={}&logoColor=f89820)
